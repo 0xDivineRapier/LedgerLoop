@@ -1,0 +1,5 @@
+{
+  "name": "LedgerLoop",
+  "description": "A modern B2B financial reconciliation dashboard powered by Gemini AI for intelligent transaction matching.",
+  "requestFramePermissions": []
+}
